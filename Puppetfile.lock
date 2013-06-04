@@ -54,6 +54,11 @@ GITHUBTARBALL
     ruby (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-skype
+  specs:
+    skype (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -81,6 +86,7 @@ DEPENDENCIES
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
   ruby (= 1.0.0)
+  skype (= 1.0.0)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
 
